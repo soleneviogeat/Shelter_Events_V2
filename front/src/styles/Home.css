@@ -21,7 +21,7 @@
 /* Eléments principaux de la page */
 
 html {
-    background-color: #DEE4FF /* rgb(252, 248, 237) */;
+    background-color: #DEE4FF;
 }
 
 body {   
@@ -32,7 +32,7 @@ body {
 h1 {  
     font-size: 55px;
     text-align: center;
-    color: #E9DACA/* #6733CF */;
+    color: #E9DACA;
     text-shadow: 1px 1px 2px black, 0 0 1em white, 0 0 0.2em white;
     font-family: 'Vidaloka', serif;
 }
@@ -56,7 +56,7 @@ h1 {
 header {
     display: flex;
     justify-content: space-between;
-    background-color: #FCF8ED/* #dee4ff */;
+    background-color: #FCF8ED;
     position: fixed !important;
     top: 0;
     width: 100%;
@@ -253,7 +253,7 @@ aside a {
     text-decoration: none;
     color: #6733CF;
 }
-
+*/
 
 /* Gallerie photos */
 
@@ -279,12 +279,12 @@ footer {
     display: flex;
     justify-content: space-around;
     align-content: space-around;
-    background-color:/*#FFECC7*/#6733CF;
+    background-color:#6733CF;
     color: white;
     font-weight: bold;
 }
-
-.link {         /* mise en page div */                 
+/* mise en page div */  
+.link {                        
     display: flex;
     flex-direction: column;
     align-items: center;

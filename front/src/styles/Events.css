@@ -103,7 +103,7 @@ margin-bottom: 20px;
     top    : 0;
     right  : 0;
     height  : 50%;
-    width   : 50%;  /* or 100px */
+    width   : 50%;
     transition: 800ms ease-in-out;
     border-top: 2px solid #6733CF;
     border-right: 2px solid #6733CF;
@@ -115,7 +115,7 @@ margin-bottom: 20px;
     bottom: 0;
     left: 0;
     height: 50%;
-    width: 50%;  /* or 100px */
+    width: 50%;
     transition: 800ms ease-in-out;
     border-bottom: 2px solid #6733CF;
     border-left: 2px solid #6733CF;
